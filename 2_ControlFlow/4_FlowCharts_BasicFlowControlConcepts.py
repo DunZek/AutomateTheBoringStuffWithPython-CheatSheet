@@ -1,6 +1,7 @@
 """
-Nothing new to study:
 - Booleans
+    - True
+    - False
 - Comparison operators:
     - ==
     - <=
